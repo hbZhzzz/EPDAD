@@ -2,7 +2,7 @@
 
 Here is the code for the paper **A Text-Based Emotional Pattern Discrepancy Aware Model for Enhanced Generalization in Depression Detection**.
 
-**This article is being submitted to “Knowledge-Based Systems”, and we will update the source code when it is accepted.**
+**This article is being submitted to “Information Processing and Management”, and we will update the source code when it is accepted.**
 
 
 <img src='.\img\framework.png'>
