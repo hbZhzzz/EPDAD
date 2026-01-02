@@ -1,2 +1,5 @@
 The experiments in this paper are based on the MIDD and MOMDA datasets, the authors do not have the authority to share the MIDD dataset, 
+
 but the MODMA dataset is publicly available, visit the link to get it: https://modma.lzu.edu.cn/data/index/
+
+本文的实验基于MIDD和MOMDA数据集，作者并没有权力共享MIDD数据集，但是MODMA数据集是公开的，请访问链接获取：https://modma.lzu.edu.cn/data/index/
