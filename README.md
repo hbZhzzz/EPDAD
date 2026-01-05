@@ -1,5 +1,7 @@
 # EPDAD
 
+## 📕Introduction
+
 Here is the code for the paper **A Text-Based Emotional Pattern Discrepancy Aware Model for Enhanced Generalization in Depression Detection**.
 
 <img src='.\img\framework.png'>
