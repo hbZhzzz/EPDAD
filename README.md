@@ -9,13 +9,23 @@ The experiments in this paper are based on the MIDD and MOMDA datasets, the auth
 https://modma.lzu.edu.cn/data/index/
 
 If you use content or code related to this paper, please cite the following paper:
+
 @article{zhang2026text,
+
   title={A text-based emotional pattern discrepancy aware model for enhanced generalization in depression detection},
+  
   author={Zhang, Haibo and Liu, Zhenyu and Wu, Yang and Yuan, Jiaqian and Li, Gang and Ding, Zhijie and Hu, Bin},
+  
   journal={Information Processing \& Management},
+  
   volume={63},
+  
   number={4},
+  
   pages={104575},
+  
   year={2026},
+  
   publisher={Elsevier}
+  
 }
