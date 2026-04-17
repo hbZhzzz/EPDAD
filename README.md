@@ -24,4 +24,11 @@ https://modma.lzu.edu.cn/data/index/
   year={2026},
   publisher={Elsevier}
 }
+@article{zhang2026sounding,
+  title={Sounding Depressed? Personalized Deep Learning Model for Depression Detection from Speech and Text},
+  author={Zhang, Haibo and Liu, Zhenyu and Yuan, Jiaqian and Li, Gang and Ding, Zhijie and Hu, Bin},
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
+}
 ```
